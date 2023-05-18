@@ -1,13 +1,13 @@
-package com.gucardev.springbootwebrtcpeer2peer;
+package web_term_paper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootWebrtcPeer2peerApplication {
+public class WebTermPaperApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(SpringBootWebrtcPeer2peerApplication.class, args);
+    SpringApplication.run(WebTermPaperApplication.class, args);
   }
 
 }

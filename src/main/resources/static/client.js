@@ -1,4 +1,6 @@
-const LOCAL_IP_ADDRESS = "localhost"; // change it
+const LOCAL_IP_ADDRESS = "localhost";
+// const LOCAL_IP_ADDRESS = "192.168.1.240";
+
 
 const getElement = id => document.getElementById(id);
 const [btnConnect, btnToggleVideo, btnToggleAudio, divRoomConfig, roomDiv, roomNameInput, localVideo, remoteVideo] = ["btnConnect",

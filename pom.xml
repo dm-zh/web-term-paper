@@ -9,11 +9,10 @@
     <version>2.7.5</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.gucardev</groupId>
-  <artifactId>spring-boot-webrtc-peer2peer</artifactId>
+  <groupId>web-term-paper</groupId>
+  <artifactId>web-term-paper</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-boot-webrtc-peer2peer</name>
-  <description>spring-boot-webrtc-peer2peer</description>
+  <name>web_term_paper</name>
   <properties>
     <java.version>11</java.version>
   </properties>
